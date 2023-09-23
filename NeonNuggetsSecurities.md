@@ -16,7 +16,7 @@ Just when you thought NeonNuggets couldn’t be more audacious, they introduce t
 
 ## **4. Flashing Neon Warning Signs**
 
-Whispers of Goldchip's enigmatic past, coupled with NeonNuggets' brazen bending of what few regulatory rules Luminosa has, are starting to create ripples of concern. The company's casual stance on players forming external alliances might sound modern and groundbreaking, but it also poses serious questions about the overall integrity of the trading platform.
+Whispers of Goldchip's enigmatic past, coupled with NeonNuggets' brazen bending of what few regulatory rules Luminosa has, are starting to create ripples of concern. The company's casual stance on investors forming external alliances might sound modern and groundbreaking, but it also poses serious questions about the overall integrity of the trading platform.
 
 ## **Preliminary Thoughts**
 
