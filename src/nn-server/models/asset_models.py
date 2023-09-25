@@ -14,6 +14,7 @@ class Asset(Base):
     quantity_available = Column(Integer, nullable=False, default=0)
     last_traded_price = Column(MoneyType, nullable=False)
     last_traded_at = Column(DateTime, nullable=True)
+    asset_stats = relationship('AssetStat', back_populates='asset')
     
     # Define relationships
     company = relationship('Company', back_populates='assets')  # Ensure Company is properly imported or defined

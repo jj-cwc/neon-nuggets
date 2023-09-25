@@ -10,6 +10,8 @@ from trader_models import Trader, Bot, Player
 from asset_models import Asset, Holding
 from order_models import Order, OrderType, OrderStatus
 from company_models import Company, Sector
+from market_models import TradeVolume, MarketStat, AssetStat
+from brokerage_models import HistoricalData
 
 # Setup engine and create tables
 engine = create_engine('sqlite:///neon-nuggets.db')
